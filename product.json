@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "İphone",
+    "price": 520,
+    "image": "images2/sohaib.png"
+  },
+  {
+    "id": 2,
+    "name": "İphone",
+    "price": 220,
+    "image": "images2/sohaib1.png"
+  },
+  {
+    "id": 3,
+    "name": "İphone",
+    "price": 250,
+    "image": "images2/sohaib2.png"
+  },
+  {
+    "id": 4,
+    "name": "İphone",
+    "price": 420,
+    "image": "images2/sohaib3.png"
+  },
+  {
+    "id": 5,
+    "name": "İphone",
+    "price": 120,
+    "image": "images2/sohaib4.png"
+  },
+  {
+    "id": 6,
+    "name": "İphone",
+    "price": 120,
+    "image": "images2/sohaib5.png"
+  },
+  {
+    "id": 7,
+    "name": "İphone",
+    "price": 120,
+    "image": "images2/1702508810288.png"
+  },
+  {
+    "id": 8,
+    "name": "İphone",
+    "price": 120,
+    "image": "images2/1702508843253.png"
+  },
+  {
+    "id": 9,
+    "name": "İphone",
+    "price": 120,
+    "image": "images2/1702508868937.png"
+  }
+]
