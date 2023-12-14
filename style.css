@@ -596,7 +596,7 @@ form a {
 
 @media only screen and (max-width: 800px) {
   .navbar {
-    position: absolute;
+    position: fixed;
   }
   nav ul {
     position: absolute;
@@ -607,7 +607,7 @@ form a {
     overflow: hidden;
     transition: max-height 0.5s;
     text-align: center;
-    background-color: #009ed29a;
+    background-color: #f3f6f9;
     
     
     
@@ -615,7 +615,7 @@ form a {
   nav ul li {
     display: block;
     margin-right: 50px;
-    margin-top: 30px;
+    margin-top: 25px;
     margin-bottom: 5px !important;
     
   }
